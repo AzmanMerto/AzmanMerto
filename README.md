@@ -7,8 +7,14 @@
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NomoteteS&repo=CryptoPath&theme=nightowl)     ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NomoteteS&repo=Aiachy&theme=nightowl)
 
+<details>
     
-![](https://github-readme-stats.vercel.app/api?username=NomoteteS&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&show_icons=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=NomoteteS&theme=nightowl&hide_border=false&show_icons=true) <br/>
+    
+![](https://github-readme-stats.vercel.app/api?username=NomoteteS&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+    
+    
+![](https://github-readme-streak-stats.herokuapp.com/?user=NomoteteS&theme=nightowl&hide_border=false&show_icons=true)
+</details>
 
 - 📱 I’m currently working on [Aiachy](https://github.com/NomoteteS/Aiachy) & [Crewl](https://github.com/CrewlApp/crewl-ios)
 
