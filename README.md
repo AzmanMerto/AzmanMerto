@@ -5,10 +5,10 @@
 ![This is an image](https://i.hizliresim.com/tui37z5.png)
 ***
 
+
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NomoteteS&repo=CryptoPath&theme=nightowl)     ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NomoteteS&repo=Aiachy&theme=nightowl)
 
 <details>
-    
     
 ![](https://github-readme-stats.vercel.app/api?username=NomoteteS&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
     
@@ -16,13 +16,30 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NomoteteS&theme=nightowl&hide_border=false&show_icons=true)
 </details>
 
+| Skils | #1 |
+| :---:   | :---: |
+| Main Projects | [Aiachy](https://github.com/NomoteteS/Aiachy) & [Crewl](https://github.com/CrewlApp/crewl-ios)   |
+| Architectural |MVVM, VIPER,MVC|
+| Industry Knowledge | REST API, CocoaPods, RxSwift, SwiftUI |
+| Tools & Technologies | Figma, Zeplin, GithubGoogle Analytics, Firebase |
+| Certificate | Google Digital garage certificate, The Ray Wenderlich, CS50's Introduction to Computer Science  |
+
+
 - 📱 I’m currently working on [Aiachy](https://github.com/NomoteteS/Aiachy) & [Crewl](https://github.com/CrewlApp/crewl-ios)
 
 - ❤️ I love writing **Swift**, and building fun experiments on type-level
 
-- 💬 Ask me about 
+- 💬 Ask me about SwiftUI & Swfit, films, music, everything(if I don't know, let's teach me)
 
 - 📫 How to reach me **nomotetes.onetrue@icloud.com**
   
+<details>  
+    <summary> hey </summary>
+    
+![](https://github-readme-stats.vercel.app/api?username=NomoteteS&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+    
+    
+![](https://github-readme-streak-stats.herokuapp.com/?user=NomoteteS&theme=nightowl&hide_border=false&show_icons=true)
+</details>
 
-
+ <summary>I have keys but no doors. I have space but no room. You can enter but can’t leave. What am I?</summary>
