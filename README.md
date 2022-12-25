@@ -5,25 +5,13 @@
 ![This is an image](https://i.hizliresim.com/tui37z5.png)
 ***
 
+<a href="https://github.com/Aiachy/Aiachy-iOS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aiachy&repo=Aiachy-iOS&theme=nightowl" />
+</a>
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NomoteteS&repo=CryptoPath&theme=nightowl)     ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NomoteteS&repo=Aiachy&theme=nightowl)
-
-<details>
-    
-![](https://github-readme-stats.vercel.app/api?username=NomoteteS&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
-    
-    
-![](https://github-readme-streak-stats.herokuapp.com/?user=NomoteteS&theme=nightowl&hide_border=false&show_icons=true)
-</details>
-
-| Skils | #1 |
-| :---:   | :---: |
-| Main Projects | [Aiachy](https://github.com/NomoteteS/Aiachy) & [Crewl](https://github.com/CrewlApp/crewl-ios)   |
-| Architectural |MVVM, VIPER,MVC|
-| Industry Knowledge | REST API, CocoaPods, RxSwift, SwiftUI |
-| Tools & Technologies | Figma, Zeplin, GithubGoogle Analytics, Firebase |
-| Certificate | Google Digital garage certificate, The Ray Wenderlich, CS50's Introduction to Computer Science  |
-
+<a href="https://github.com/NomoteteS/LittleProjects">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NomoteteS&repo=LittleProjects&theme=nightowl" />
+</a>
 
 - 📱 I’m currently working on [Aiachy](https://github.com/NomoteteS/Aiachy) & [Crewl](https://github.com/CrewlApp/crewl-ios)
 
@@ -32,14 +20,18 @@
 - 💬 Ask me about SwiftUI & Swfit, films, music, everything(if I don't know, let's teach me)
 
 - 📫 How to reach me **nomotetes.onetrue@icloud.com**
+
+| Skils | #1 |
+| :---:   | :---: |
+| Main Projects | [Aiachy](https://github.com/Aiachy/Aiachy-iOS) & [Crewl](https://github.com/CrewlApp/crewl-ios)   |
+| Architectural |MVVM, VIPER,MVC|
+| Industry Knowledge | Git, REST API, CocoaPods, RxSwift, SwiftUI, XCode, Unit Test, Objective-C|
+| Tools & Technologies | Figma, Zeplin, Sketch, Github, Google Analytics, Firebase |
+| Certificate | Google Digital garage certificate, The Ray Wenderlich, CS50's Introduction to Computer Science  |
   
-<details>  
-    <summary> hey </summary>
+  <details>
     
 ![](https://github-readme-stats.vercel.app/api?username=NomoteteS&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
     
-    
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NomoteteS&theme=nightowl&hide_border=false&show_icons=true)
 </details>
-
- <summary>I have keys but no doors. I have space but no room. You can enter but can’t leave. What am I?</summary>
