@@ -22,7 +22,7 @@
   </td>
 <td colspan="3" rowspan="3">
 <a href="https://github.com/NomoteteS/LittleProjects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NomoteteS&repo=LittleProjects&theme=nightowl" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NomoteteS&repo=Road2-50-PROJECTS&theme=nightowl" />
 </a>
   </td>
   </tr>
