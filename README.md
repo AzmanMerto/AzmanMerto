@@ -17,12 +17,12 @@
   <tr>
 <td colspan="3" rowspan="3">
 <a href="https://github.com/Aiachy/Aiachy-iOS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aiachy&repo=Aiachy-iOS&theme=nightowl" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aiachy&repo=Aiachy-iOS&theme=nightowl"/>
 </a>
   </td>
 <td colspan="3" rowspan="3">
-<a href="https://github.com/NomoteteS/LittleProjects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NomoteteS&repo=Road2-50-PROJECTS&theme=nightowl" />
+<a href="https://github.com/NomoteteS/Road2-50-PROJECTS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NomoteteS&repo=Road2-50-PROJECTS&theme=nightowl"/>
 </a>
   </td>
   </tr>
