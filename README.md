@@ -17,12 +17,12 @@
   <tr>
 <td colspan="3" rowspan="3">
 <a href="https://github.com/Aiachy/Aiachy-iOS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aiachy&repo=Aiachy-iOS&theme=nightowl"/>
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Aiachy&repo=Aiachy-iOS&theme=nightowl"/>
 </a>
   </td>
 <td colspan="3" rowspan="3">
 <a href="https://github.com/NomoteteS/Road2-50-PROJECTS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NomoteteS&repo=Road2-50-PROJECTS&theme=nightowl"/>
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NomoteteS&repo=Road2-50-PROJECTS&theme=nightowl"/>
 </a>
   </td>
   </tr>
@@ -32,7 +32,7 @@
 <td colspan="1" rowspan="1">
 <a href="">
   
-  ![](https://github-readme-stats.vercel.app/api?username=NomoteteS&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+  ![](https://github-readme-stats-sigma-five.vercel.app/api?username=NomoteteS&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
   
 </a>
   </td>
