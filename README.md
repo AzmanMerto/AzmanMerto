@@ -16,8 +16,8 @@
   
   <tr>
 <td colspan="3" rowspan="3">
-<a href="https://github.com/Aiachy/Aiachy-iOS">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Aiachy&repo=Aiachy-iOS&theme=nightowl"/>
+<a href="https://github.com/NomoteteS/Aiachy-V0.1">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NomoteteS&repo=Aiachy-V0.1&theme=nightowl"/>
 </a>
   </td>
 <td colspan="3" rowspan="3">
