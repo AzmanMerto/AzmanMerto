@@ -16,8 +16,8 @@
   
   <tr>
 <td colspan="3" rowspan="3">
-<a href="https://github.com/AzmanMerto/Aiachy-V0.1">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AzmanMerto&repo=Aiachy-V0.1&theme=nightowl"/>
+<a href="https://github.com/AzmanMerto/Aiachy-0.09">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AzmanMerto&repo=Aiachy-0.09&theme=nightowl"/>
 </a>
   </td>
 <td colspan="3" rowspan="3">
