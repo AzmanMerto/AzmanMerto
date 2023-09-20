@@ -38,9 +38,10 @@
   </td>
 <td colspan="1" rowspan="1">
 <a href="">
-  
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=AzmanMerto&theme=nightowl&hide_border=false&show_icons=true)
-  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzmanMerto&theme=nightowl&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+
 </a>
 </td>
 </tr>
